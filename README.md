@@ -1,5 +1,6 @@
 # Micro-IIT-Internship
 **Advanced To-Do List**
+
 This is an advanced To-Do List application built with Python using the Tkinter library. It allows users to add, edit, delete, mark tasks as completed, and clear the entire task list. The tasks are saved in a tasks.json file to persist even when the application is closed.
 
 **Features**
